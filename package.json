@@ -9,6 +9,7 @@
     "lint": "biome check",
     "format": "biome format --write"
   },
+  "author": "Milind Mishra",
   "dependencies": {
     "next": "15.5.0",
     "react": "19.1.0",
