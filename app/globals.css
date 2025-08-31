@@ -1,6 +1,1 @@
 @import "tailwindcss";
-
-.tl-watermark_SEE-LICENSE {
-    /* biome-ignore lint/complexity/noImportantStyles: hacker man */
-    display: none !important;
-}
